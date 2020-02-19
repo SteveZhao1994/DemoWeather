@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_weather"/>
+    <vervison value="1"/>
+    <list>
+        <mapping class="com.zjf.weather.db.Province"/>
+        <mapping class="com.zjf.weather.db.City"/>
+        <mapping class="com.zjf.weather.db.County"/>
+    </list>
+</litepal>
